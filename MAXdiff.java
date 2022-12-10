@@ -1,4 +1,4 @@
-public class MAXdiif
+public class MAXdiif{
 public static void main(String[] args) {
       int n=4;
       for(int i=1;i<=n;i++){
@@ -6,5 +6,5 @@ public static void main(String[] args) {
         System.out.print("*");
         }System.out.println();
       }
-    
+}
 }
